@@ -1,0 +1,2 @@
+[21-Sep-2016 11:55:07 America/Denver] PHP Warning:  require_once(wp-config.php): failed to open stream: No such file or directory in /home/zioncgrp/public_html/harpacca/api/mobile_submit_email.php on line 2
+[21-Sep-2016 11:55:07 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'wp-config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zioncgrp/public_html/harpacca/api/mobile_submit_email.php on line 2
